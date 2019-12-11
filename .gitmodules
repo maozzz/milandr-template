@@ -1,0 +1,6 @@
+[submodule "emdr1986x-std-per-lib"]
+	path = emdr1986x-std-per-lib
+	url = git@github.com:eldarkg/emdr1986x-std-per-lib.git
+[submodule "CMSIS_5"]
+	path = CMSIS_5
+	url = git@github.com:ARM-software/CMSIS_5.git
